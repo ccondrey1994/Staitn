@@ -1,0 +1,39 @@
+# StatinWise Privacy Policy
+
+**Effective Date:** July 1, 2025
+
+## 1. Introduction  
+Welcome to StatinWise (“we,” “us,” or “our”). Your privacy is important. This Privacy Policy explains how StatinWise — a clinician-only, on-device decision support app for statin therapy — handles information.
+
+## 2. Information We **Do Not** Collect  
+- **No Personal Data Transmission:** StatinWise does **not** collect, transmit, or store any personal health information on our servers.  
+- **No Analytics or Tracking:** We do not use third-party analytics or advertising SDKs.  
+
+## 3. Information Stored Locally  
+All user inputs (patient demographics, lab values, medical history, risk enhancers) are stored **only** on your device. We leverage iOS Data Protection (AES-256) to encrypt data at rest.
+
+## 4. How We Use Your Information  
+- **On-Device Calculations:** All guideline algorithms run locally to generate statin recommendations.  
+- **No Sharing:** We do not share your data with any third parties, including cloud services, health networks, or advertisers.
+
+## 5. Security Measures  
+- **Encryption:** Data at rest is encrypted via Apple’s standard crypto APIs (AES-256).  
+- **Offline-First:** StatinWise functions entirely offline; no network calls are made for user data.  
+- **App Store Compliance:** Because we only use Apple’s built-in encryption, no additional export compliance filings are needed.
+
+## 6. Third-Party Services  
+StatinWise does not integrate any third-party SDKs, marketplaces, or analytics services.
+
+## 7. Children’s Privacy  
+StatinWise is intended for clinical use by healthcare professionals. We do not knowingly collect information from children under 13.
+
+## 8. Changes to This Privacy Policy  
+We may update this policy to reflect changes to our practices or legal requirements. We’ll post the revised policy here with an updated “Effective Date.”
+
+## 9. Contact Us  
+If you have questions or concerns about this policy, please contact us at:  
+**Email:** [support@statinwiseapp.com](mailto:support@statinwiseapp.com)  
+**Support URL:** https://www.statinwiseapp.com/support
+
+---
+*Last updated July 1, 2025*  
